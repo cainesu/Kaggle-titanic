@@ -9,10 +9,12 @@
 
 Introduction
 ---------------------
+Using python machine learning packages to predict the different survival rate on for the titanic passengers.
 
 Requirement
 ---------------------
 Python 3.8
+
 
 Maintainers
 ---------------------
